@@ -1,0 +1,10 @@
+INDEX VERSION 1.131+G:\Meu Drive\Estudos\Curso em Vídeo\poo\.metadata\.plugins\org.eclipse.jdt.core
+3543240859.index
+1865797976.index
+1245233441.index
+3076681150.index
+1027600823.index
+1414411385.index
+2755043341.index
+591987951.index
+3562820738.index
